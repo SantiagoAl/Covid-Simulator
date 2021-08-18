@@ -4,7 +4,6 @@
 
 Person::Person()
 {
-	// RandomWaypointModel *model - new RandomWaypoinModel();
 	PopularPlacesModel *model = new PopularPlacesModel();
 	mobility_model = (MobilityModel*)model;
 	mobility_model->setPerson(this);
