@@ -3,7 +3,7 @@
 
 #include "simulator.h"
 #include "mobility_model.h"
-#include "location.h"
+#include "Location.h"
 
 class MobilityModel;
 

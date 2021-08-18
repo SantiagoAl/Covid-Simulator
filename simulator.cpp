@@ -4,7 +4,7 @@
 
 #include "simulator.h"
 #include "person.h"
-#include "location.h"
+#include "Location.h"
 #include <stdlib.h>
 #include "ui.h"
 

@@ -1,4 +1,4 @@
-#include "location.h"
+#include "Location.h"
 #include <math.h>
 #include "simulator.h"
 #include <stdlib.h"

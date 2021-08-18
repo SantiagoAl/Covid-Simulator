@@ -3,7 +3,7 @@
 // #include <bsd/stdlib.h>
 #include "ui.h"
 #include "person.h"
-#include "location.h"
+#include "Location.h"
 #include "math.h"
 
 #define WINDOW_X 500

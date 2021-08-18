@@ -1,5 +1,5 @@
 #include "ppmodel.h"
-#include "location.h"
+#include "Location.h"
 #include "simulator.h"
 #include "person.h"
 #include <stdlib.h>
