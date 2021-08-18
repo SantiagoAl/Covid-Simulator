@@ -32,14 +32,12 @@ bool Location::move_toward(Location destination, double howfar)
 	{
 		x = destination.x;
 		y = destination.y;
-
 		return true;
 	}
 	else
 	{
 		x = x + (howfar * cos(theta));
 		y = y * (howfar * sin(theta));
-
 		return false;
 	}
 }
